@@ -1,0 +1,93 @@
+h1{
+    color:crimson;
+    padding-bottom: 2%;
+    /* margin-left:40%; */
+}
+body
+{
+    background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amnesty.org.uk%2Fbooks&psig=AOvVaw2c3biMWHIKjNYCQmNoMq_H&ust=1619607920787000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOCSnuijnvACFQAAAAAdAAAAABAL");
+    background-repeat: no-repeat;
+    background-size: 100% 350%;
+    padding-top:200px;
+    width: 100%;
+}
+.signup
+{
+    /* text-decoration: underline darkgrey; */
+    font-size: 30px;
+    color:rgb(139, 0, 127);
+    text-align:center;
+}
+.form
+{
+      /* margin-left:40%;
+      margin-right: auto; */
+      display: inline-block;
+      height: 370px;
+      background-color:rgba(255, 8, 0, 0.479);
+      box-shadow: 10px 10px; 
+      width: 400px;
+}
+ .email
+{
+    display: inline-block;
+    margin-top: 50px;
+    height: 50px;
+    border-color:cornflowerblue;
+    border-radius: 20px;
+    text-align:start;
+    text-indent: 20px;
+    font-size: 20px; 
+    width: 90%;
+    outline: none;
+} 
+.password
+{
+    margin-top:20px;
+    font-size:25px;
+    display: inline-block;
+    height: 50px;
+    border-color:cornflowerblue;
+    border-radius: 20px;
+    text-align:start;
+    text-indent: 20px;
+    font-size: 20px;
+    width: 90%;
+    outline: none;
+}
+.submit
+{
+    font-size:25px;
+    display: inline-block;
+    background-color:cornsilk;
+    height: 40px;
+    border-radius: 10px;
+    /* margin-left: 30%; */
+    border-color:cornflowerblue;
+}
+.submit:hover
+{
+    color:darkblue;
+    background-color: darkgray;
+     margin-right: 5%;
+}
+ p{
+    color:red;
+    padding:none;
+    font-size: initial;
+}
+.login
+{
+    padding-top:50px;
+    
+}
+.register
+{
+    color:black;
+    font-size: 20px;
+    margin-right: 70%;
+}
+.register:hover
+{
+    color:rgba(0, 0, 0, 0.486);
+}
